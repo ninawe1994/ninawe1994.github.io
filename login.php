@@ -1,3 +1,4 @@
+<!--note for login username=p1 password=neha-->
 <?php
         include("config.php");
         session_start();
